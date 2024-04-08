@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+(https://www.linkedin.com/in/camila-arrobo/overlay/background-image/)
+
 # 💫 About Me:
 Soy una mujer apasionada por la tecnología y el desarrollo web. Con un enfoque centrado en el usuario, me dedico a crear aplicaciones web cautivadoras y funcionales. Como profesional responsable y colaborativa, disfruto trabajando en equipo para superar desafíos y alcanzar objetivos ambiciosos. Más allá de mi amor por el código, lucho activamente por reducir la brecha de género en la industria tecnológica, abogando por la inclusión y la diversidad. Creo firmemente en el poder de la tecnología para impulsar el cambio positivo y estoy comprometida a ser parte de ese cambio.
 
