@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Linkedin Camila](https://github.com/Mcarrobof24/Mcarrobof24/assets/152832539/3f302401-4bd7-45cd-92d0-59e057ec42e4)
 
 ![Linkedin Camila_Mesa de trabajo 1](https://github.com/Mcarrobof24/Mcarrobof24/assets/152832539/5423d358-5e2e-4f41-8157-d67fc5830718)
 
